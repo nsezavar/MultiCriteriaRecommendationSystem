@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2019 Amin Mohammadpour ,{amin_mohamadpour72@yahoo.com}
+Copyright (c) 2022 nasser sezavar ,{nasser.sezavar@gmail.com}
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
